@@ -1,5 +1,5 @@
 #🎬 Netflix Data Explorer
-
+![Netflix Logo](https://github.com/rishinawani/netflix_sql_project/blob/main/nt.PNG)
 Project Overview
 Welcome to the Netflix Data Explorer! This project dives deep into Netflix's vast collection of shows and movies using SQL to uncover intriguing insights about content trends, genre dominance, and global reach. Ever wondered which genres are thriving or how Netflix's catalog has evolved over the years? This project answers those questions and more, blending data analysis with storytelling.
 
